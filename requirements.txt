@@ -1,4 +1,5 @@
 async-lru
+async-lru
 certifi
 charset-normalizer
 idna
